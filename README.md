@@ -13,9 +13,15 @@ I created this repository for my brand(CodeOVIK)'s website. CodeOVIK is a brand 
 
 ## To run this project locally:
 1. Clone the repository
-```git clone```
+```bash
+git clone https://github.com/codeovik/codeovik-website.git
+```
 2. Install dependencies
-```npm install```
+```bash
+npm install
+```
 3. Run the development server
-```npm run dev```
+```bash
+npm run dev
+```
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
