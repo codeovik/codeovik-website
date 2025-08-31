@@ -1,4 +1,4 @@
-I created this repository for my brand(CodeOVIK)'s website. CodeOVIK is a brand that focuses on providing coding tutorials, selling html, react and nextjs templates, and offering various coding-related services. You can see live preview of the website here: [click me](https://codeovik.vercel.app/)
+I created this repository for my brand(CodeOVIK)'s website. CodeOVIK is a brand that focuses on providing coding tutorials, selling html, react and nextjs templates, and offering various coding-related services. You can see live preview of the website here: [codeovik.vercel.app](https://codeovik.vercel.app/)
 
 ## Tech Stack:
 1. Nextjs
